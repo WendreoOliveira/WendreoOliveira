@@ -17,7 +17,7 @@
 <img aLign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Apaixonado por tecnologia e pela a aprendizagem.
+Apaixonado por tecnologia e pela a aprendizagem..
 
 ## Ultimos cursos que estou aprendendo:
 -[Curso de JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)<br/>

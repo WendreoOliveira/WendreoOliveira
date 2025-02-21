@@ -20,8 +20,8 @@
 Apaixonado por tecnologia e pela a aprendizagem..
 
 ## Ultimos cursos que estou aprendendo:
--[Curso de JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)<br/>
+-[Java COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/java-curso-completo/?couponCode=ST3MT200225A)<br/>
 -[Curso de Python 3 do Básico Ao Avançado (com projetos reais)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)<br/>
--[O curso completo de Banco de Dados e SQL, sem mistérios!](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)<br/>
--[Curso de Pentest - Testes de Invasão a Redes](https://www.udemy.com/course/curso-de-pentest-testes-de-invasao-a-redes/)<br/>
+-[C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/?couponCode=ST3MT200225A)<br/>
+-[Inglês Extremo - Curso Completo do Zero à Fluência](https://www.udemy.com/course/inglesextremo/?couponCode=ST3MT200225A)<br/>
 -[PostgreSQL do Zero para Engenheiro de Dados](https://www.udemy.com/course/postgresql-do-zero-para-engenheiro-de-dados/)<br/>

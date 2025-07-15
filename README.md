@@ -26,8 +26,3 @@ Apaixonado por tecnologia e pela a aprendizagem..
 -[Inglês Extremo - Curso Completo do Zero à Fluência](https://www.udemy.com/course/inglesextremo/?couponCode=ST3MT200225A)<br/>
 -[PostgreSQL do Zero para Engenheiro de Dados](https://www.udemy.com/course/postgresql-do-zero-para-engenheiro-de-dados/)<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>

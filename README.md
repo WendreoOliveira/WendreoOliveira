@@ -64,14 +64,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendreoOliveira/WendreoOliveira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendreoOliveira/WendreoOliveira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://github.com/WendreoOliveira">
-</picture>
-
-###
-
 <h3 align="left">Tecnologias que estou aprendendo:</h3>
 
 ###

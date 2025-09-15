@@ -1,4 +1,6 @@
-<h1 align="left">Olá! Eu sou o Wendreo Oliveira✌️</h1>
+<h1 align="left">Olá! Eu sou o Wendreo Oliveira✌️
+- Sou formado em engenharia da computação e no momento pós-graduando em engenharia de software
+</h1>
 
 ###
 

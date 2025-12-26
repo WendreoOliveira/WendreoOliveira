@@ -1,5 +1,11 @@
 <h1 align="left">Olá! Eu sou o Wendreo Oliveira✌️</h1><br>
-###
+
+
+
+<p> Sou formado em engenharia da computação e pós-graduando em engenharia de software, sou apaixonado por tecnologias, livros e video game.<br>
+  No momento estou no começo de carreira e buscando me aperfeiçoar em algumas tecnologia para obter um crescimento profissional e pessoal e agredeço a todos que puder me ajudar.
+</p><br>
+
 
 <div align="left">
   <a href="www.linkedin.com/in/wendreo-oliveira-840927198" target="_blank">

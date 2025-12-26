@@ -2,8 +2,8 @@
 
 
 
-<p> Sou formado em engenharia da computação e pós-graduando em engenharia de software, sou apaixonado por tecnologias, livros e video game.<br>
-  No momento estou no começo de carreira e buscando me aperfeiçoar em algumas tecnologia para obter um crescimento profissional e pessoal e agredeço a todos que puder me ajudar.
+<p> Sou formado em Engenharia da Computação e pós-graduando em Engenharia de Software. Sou apaixonado por tecnologia, livros e videogames.<br>
+  No momento, estou no início da carreira e busco me aperfeiçoar em algumas tecnologias para obter crescimento profissional e pessoal. Agradeço a todos que puderem me ajudar.
 </p><br>
 
 
